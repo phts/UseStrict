@@ -1,0 +1,6 @@
+[
+	{
+		"caption": "UseStrict: Append 'use strict' to the top of the file",
+		"command": "append_use_strict"
+	},
+]
