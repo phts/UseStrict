@@ -14,3 +14,15 @@ Insert "use strict" directive to the top of the file.
 
 Run command `UseStrict: Insert "use strict" to the top of the file` and
 it will append `'use strict'` to the top of the active file.
+
+## Settings
+
+```js
+{
+  // Whether to insert semicolon after the "use strict" directive
+  "semicolon": false,
+
+  // String quote symbol to use in the "use strict" directive. Can be "'", "\"" or even any string.
+  "quote_symbol": "'",
+}
+```
