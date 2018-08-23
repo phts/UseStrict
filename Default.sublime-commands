@@ -1,6 +1,6 @@
 [
 	{
-		"caption": "UseStrict: Append 'use strict' to the top of the file",
-		"command": "append_use_strict"
+		"caption": "UseStrict: Insert \"use strict\" to the top of the file",
+		"command": "insert_use_strict",
 	},
 ]

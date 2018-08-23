@@ -1,7 +1,7 @@
 import sublime
 import sublime_plugin
 
-class AppendUseStrictCommand(sublime_plugin.TextCommand):
+class InsertUseStrictCommand(sublime_plugin.TextCommand):
     def run(self, edit):
         insert_position = 0
         insert_text = '\'use strict\'\n'

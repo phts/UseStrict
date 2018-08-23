@@ -1,6 +1,7 @@
 # UseStrict
 
 Package for Sublime Text 3.
+Insert "use strict" directive to the top of the file.
 
 ## Install
 
@@ -11,5 +12,5 @@ Package for Sublime Text 3.
 
 ## Usage
 
-Run command `UseStrict: Append 'use strict' to the top of the file` and
+Run command `UseStrict: Insert "use strict" to the top of the file` and
 it will append `'use strict'` to the top of the active file.
