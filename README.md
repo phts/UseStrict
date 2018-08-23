@@ -1,5 +1,7 @@
 # UseStrict
 
+[![Package Control](https://img.shields.io/packagecontrol/dt/UseStrict.svg)](https://packagecontrol.io/packages/UseStrict)
+
 Package for Sublime Text 3.
 Insert "use strict" directive to the top of the file.
 
@@ -7,8 +9,7 @@ Insert "use strict" directive to the top of the file.
 
 **Via Package Control**:
 
-1. Open Command Palette &rarr; `Package Control: Add Repository` &rarr; `https://github.com/phts/UseStrict`
-2. Open Command Palette &rarr; `Package Control: Install Package` &rarr; `UseStrict`
+Open Command Palette &rarr; `Package Control: Install Package` &rarr; `UseStrict`
 
 ## Usage
 
